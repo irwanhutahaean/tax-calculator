@@ -1,9 +1,9 @@
 # tax-calculator
-Source code for backend application, to run the application, type command : mvn spring-boot:run 
+Source code for backend application, to run the application, type command : mvn spring-boot:run
 to build the application, type command : mvn clean install
 
 Sample Request:
-GET /tax?annualIncome=2100000
+GET /tax?annualIncome=50000
 
 Response:
 Content-Type: application/json
